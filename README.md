@@ -1,2 +1,2 @@
 # NewProject
-author- Prakash Kushwah
+author- Prakash Maurya
